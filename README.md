@@ -1,7 +1,5 @@
 ### Hi there, I'm Bengü 👋
 
-<!--
-**kortekss/kortekss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🌱 I’m currently learning how to pre-process fMRI data, Python, a little bit HTML and CSS
